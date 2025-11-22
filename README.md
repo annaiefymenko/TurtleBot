@@ -37,13 +37,13 @@ hier wird später die gewünschte Erweiterung des Projektes erscheinen
 
 ## Authors and acknowledgment
 **Erstellt von:**  
-Anna iefymenko 
-Lada Danylets 
-Samir Feikert
-Maurice Füsser
-Tom Grotepaß
-Nils Haschke
-Romy Klein
-Maryia Pasedzka
-Karin Purginova
-Shingo Tsudome
+Anna iefymenko,
+Lada Danylets, 
+Samir Feikert,
+Maurice Füsser,
+Tom Grotepaß,
+Nils Haschke,
+Romy Klein,
+Maryia Pasedzka,
+Karin Purginova,
+Shingo Tsudome.
